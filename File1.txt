@@ -4,9 +4,9 @@ This is my first GIT..welcome to Persistent
 class  HelloGit
 {
 
-main()
+public static void main()
 {
-sysout{"Hello Git....!!!"}
+System.out.println{"Hello Git....!!!"}
 }
 
 
