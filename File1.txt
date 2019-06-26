@@ -6,7 +6,10 @@ class  HelloGit
 
 public static void main()
 {
-System.out.println{"Hello Git....!!!"}
+S
+System.out.println{"Hello Git....!!!"
+System.out.println{"Hell Git....!!!"}
+}
 }
 
 
