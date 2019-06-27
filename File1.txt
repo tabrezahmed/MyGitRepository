@@ -3,11 +3,11 @@ This is my first GIT..welcome to Persistent
 class HelloGit
 {
 
-public static void display()
+static public static void display()
 //from bug
 
-shape of you
-addicted 
+static shape of you
+static sattic addicted 
 
 static myBigMethod(){
 static hello persistent
