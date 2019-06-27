@@ -1,17 +1,13 @@
 This is my first GIT..welcome to Persistent
 
-
-class  HelloGit
+class HelloGit
 {
 
-public static void main()
-{
-S
-System.out.println{"Hello Git....!!!"
-System.out.println{"Hell Git....!!!"}
-}
-}
+void display()
+//from bug
 
+shape of you
+addicted 
 
 
 }
