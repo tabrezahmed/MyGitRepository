@@ -3,7 +3,7 @@ This is my first GIT..welcome to Persistent
 class HelloGit
 {
 
-void display()
+public static void display()
 //from bug
 
 shape of you
